@@ -1,0 +1,25 @@
+---
+name: skill-name
+description: One-line description. Use when user says "trigger phrase" or "another trigger".
+---
+
+# Skill Name
+
+Brief description of what this skill does.
+
+## Instructions
+
+1. Step one
+2. Step two
+3. Step three
+
+## Usage
+
+```
+@skill-name
+@skill-name --option
+```
+
+## Notes
+
+- Additional context or constraints

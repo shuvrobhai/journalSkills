@@ -1,0 +1,12 @@
+.agents/
+.DS_Store
+*.pyc
+__pycache__/
+.env
+*.log
+node_modules/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
